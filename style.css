@@ -1,0 +1,32 @@
+table {
+    border-collapse: collapse;
+    margin: 15px 0;
+
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 5px 10px;
+}
+
+body {
+    background-size: cover;
+}
+
+h1 {
+    font-size: 80px !important;
+}
+
+
+.button {
+    background-color: darkslategray;
+    color: white;
+    width: 500px;
+
+}
+
+.button2 {
+    background-color: #3c2f3f;
+    color: white;
+    width: 100%;
+}
